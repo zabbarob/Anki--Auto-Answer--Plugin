@@ -1,0 +1,13 @@
+Anki 'Auto Answer' Plugin
+
+Title: Auto Answer
+Tags: timer automation countdown attention pressure
+
+After 9 seconds the answer to the current card is automatically shown and the "again" button will be focused (so that you just have to press the space bar to repeat the card). 
+
+You can configure the time span by opening the plugin file in a text editor and setting the value of secondsUntilAnswer to another amount of seconds (line 17 of the file). 
+
+If you want to provide feedback send an email to zabbarob@gmail.com 
+
+Changelog 
+2012-02-19 Bugfix: "Faster Keys" plugin did no longer work when using "Auto Answer".
